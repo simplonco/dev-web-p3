@@ -16,4 +16,8 @@ trombinoscope : https://github.com/orgs/simplonco/teams/promo-3-p20-java/project
 * 17h30 : fin de la journée
 
 ## Déroulé de la formation
-La formation de 7 mois, du 4 Juin 2018 au 31 Decembre 2018, est composée de 4 phases avec une période de stage :
+La formation de 7 mois, du 4 Juin 2018 au 31 Decembre 2018
+
+Week 1 - 2 : La priaire
+
+
