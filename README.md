@@ -96,9 +96,9 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 - http://flexboxfroggy.com/#fr
 - https://codeburst.io/css-grid-in-3-mins-d6b8055f0c0f (petit projet artistique)
 
+* Flexbox : https://drive.google.com/open?id=1m1BO5bbxmmitCmC6CHVU__MVcNBimNdI
+
 * Diagrammes cas d'utilisation : 
-- https://drive.google.com/open?id=1cs8XZbx4xs7wG-FEjbD0CB8blrZDeh0CEFGmQPUd5Ng
-- https://drive.google.com/open?id=17zDvbPrvLgifn31lzy0RgSzTGmEiT0nbPe-Hu9-m5DY
-- https://drive.google.com/open?id=1-89Is7yclNg19RPrqMgGUcmUo1e2-6SCK0una4iXVnY
+- https://drive.google.com/open?id=1qXaONy6DDPfjk-HaYOsM3MVrYrE5HKWt
 
 
