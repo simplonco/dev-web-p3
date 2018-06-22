@@ -103,3 +103,9 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 
 * Flex - Grid :   https://drive.google.com/open?id=1kbdl1EkJANn-N2LZlPagL5-N_MOtDI_8
          Projet : https://drive.google.com/open?id=1j5EyNVj0IpIBXh2VJmZ80_8H_AtDXcCk
+         
+* plus loin : 
+  - Tuto No 1 . : https://la-cascade.io/jouons-avec-flexbox-et-les-quantity-queries/
+  - Tuto No 2 . : https://www.youtube.com/watch?v=HkK7OdY8Z1E
+  - Tuto No 3 . : http://flexboxgrid.com/
+  - Tuto No 4 . : https://codeburst.io/css-grid-in-3-mins-d6b8055f0c0f
