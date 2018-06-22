@@ -80,11 +80,11 @@ Week 1 - 2 : La priaire
 # Week 3: 
 * 4L : http://www.funretrospectives.com/the-4-ls-liked-learned-lacked-longed-for/
 * 1-Responsive web design (RWD) + viewport + media queries
-  * comprendre RWD (responsive web design) avec les Media queries et le viewport par google :  
+  a. comprendre RWD (responsive web design) avec les Media queries et le viewport par google :  
   - https://developers.google.com/web/fundamentals/design-and-ux/responsive/?hl=fr
-  * une explication avancée avec des exemples simples (à refaire à partir d’une feuille blanche) : 
+  b. une explication avancée avec des exemples simples (à refaire à partir d’une feuille blanche) : 
   - https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
-  * Des exemples simples pour tester des media queries :
+  c. Des exemples simples pour tester des media queries :
   - https://www.templatemonster.com/blog/css-media-queries-for-all-devices-and-browsers-including-ie7-and-ie8/
 
 * 2-Emmet
@@ -101,7 +101,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 * Diagrammes cas d'utilisation : 
 - https://drive.google.com/open?id=1qXaONy6DDPfjk-HaYOsM3MVrYrE5HKWt
 
-* Flex - Grid :   https://drive.google.com/open?id=1kbdl1EkJANn-N2LZlPagL5-N_MOtDI_8
+* Flex - Grid :   http://flexboxgrid.com/ / https://drive.google.com/open?id=1kbdl1EkJANn-N2LZlPagL5-N_MOtDI_8
          Projet : https://drive.google.com/open?id=1j5EyNVj0IpIBXh2VJmZ80_8H_AtDXcCk
          
 * plus loin : 
