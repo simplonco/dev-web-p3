@@ -109,3 +109,13 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
   - Tuto No 2 . : https://www.youtube.com/watch?v=HkK7OdY8Z1E
   - Tuto No 3 . : http://flexboxgrid.com/
   - Tuto No 4 . : https://codeburst.io/css-grid-in-3-mins-d6b8055f0c0f
+  
+  # Week 4 
+  * fashion week : La semaine du style. 
+     4 groupes pour 4 outils de "dessin" et 4 frameworks css sur 4 jours : chaque jour chaque groupe reproduit la page d'accueil de   
+     airbnb, d'abord sous forme "dessinée", puis à l'aide d'un framework css, et produit de la    
+     documentation pour les jours suivants ; chaque jour, les groupes tournent et découvrent de nouveaux outils.
+    - canva : https://www.canva.com/ et bootstrap: https://getbootstrap.com/
+    - balsamiq : https://balsamiq.com/ et foundation : https://foundation.zurb.com/
+    - wireframe.cc : https://wireframe.cc/ et materialize : https://materializecss.com/
+    - papier + crayon et semantic ui : https://semantic-ui.com/
