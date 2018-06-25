@@ -112,10 +112,11 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
   
   # Week 4 
   * fashion week : La semaine du style. 
-     4 groupes pour 4 outils de "dessin" et 4 frameworks css sur 4 jours : chaque jour chaque groupe reproduit la page d'accueil de   
+     5 groupes pour 5 outils de "dessin" et 4 frameworks css sur 5 jours : chaque jour chaque groupe reproduit la page d'accueil de   
      airbnb, d'abord sous forme "dessinée", puis à l'aide d'un framework css, et produit de la    
      documentation pour les jours suivants ; chaque jour, les groupes tournent et découvrent de nouveaux outils.
-    - canva : https://www.canva.com/ et bootstrap: https://getbootstrap.com/
-    - balsamiq : https://balsamiq.com/ et foundation : https://foundation.zurb.com/
-    - wireframe.cc : https://wireframe.cc/ et materialize : https://materializecss.com/
-    - papier + crayon et semantic ui : https://semantic-ui.com/
+    - canva + bootstrap : https://www.canva.com/ et https://getbootstrap.com/
+    - balsamiq + bulma : https://balsamiq.com/ et https://bulma.io/
+    - wireframe.cc + materialize : https://wireframe.cc/ et https://materializecss.com/
+    - papier + crayon + semantic ui : https://semantic-ui.com/
+    - Pure.css + vectr : https://purecss.io/ et https://vectr.com/
