@@ -110,6 +110,12 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
   - Tuto No 3 . : http://flexboxgrid.com/
   - Tuto No 4 . : https://codeburst.io/css-grid-in-3-mins-d6b8055f0c0f
   
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+  - https://www.w3schools.com/cssref/css3_pr_flex.asp
+
+  - https://www.w3schools.com/css/css3_flexbox.asp
+  
   # Week 4 
   * fashion week : La semaine du style. 
      5 groupes pour 5 outils de "dessin" et 4 frameworks css sur 5 jours : chaque jour chaque groupe reproduit la page d'accueil de   
