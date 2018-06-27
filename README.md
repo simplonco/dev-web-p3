@@ -126,3 +126,11 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     - wireframe.cc + materialize : https://wireframe.cc/ et https://materializecss.com/
     - papier + crayon + semantic ui : https://semantic-ui.com/
     - Pure.css + vectr : https://purecss.io/ et https://vectr.com/
+    
+    Sites pour css  :
+    http://dev.webdesigneuse.com/spip/IMG/pdf/CSS_de_zero.pdf
+    https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web/Les_bases_CSS
+    https://www.tutorialspoint.com/css/css_tutorial.pdf
+    https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/mettre-en-place-le-css
+    https://pbnaigeon.developpez.com/tutoriel/CSS-HTML/notions-de-base/
+    http://www.fba.org.au/wordpress/wp-content/uploads/2013/04/smashing-ebook-19-mastering-css3.pdf
