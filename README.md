@@ -134,3 +134,5 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/mettre-en-place-le-css
     https://pbnaigeon.developpez.com/tutoriel/CSS-HTML/notions-de-base/
     http://www.fba.org.au/wordpress/wp-content/uploads/2013/04/smashing-ebook-19-mastering-css3.pdf
+
+    Slider en HTML/CSS : https://www.creativejuiz.fr/blog/tutoriels/css3-creer-slideshow-automatique-controlable-transition
