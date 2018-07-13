@@ -153,4 +153,8 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     * Exos Initiation Java : 
     1. https://drive.google.com/open?id=1aGsm4YlVOEORJ2x2LoiIdfax8N996QDYVMMAi1cVb9o
     2. https://drive.google.com/open?id=1IynSmpAlBUhQSbDfMmiPapDQXmXKUtswaRY5uUMNO_U
+    * Methodes : https://docs.google.com/presentation/d/1mcF__kGysY6EZ7ZeUOLgxAEyTpavpWKfQs6JSYGdW9E/edit?usp=sharing
+    * L'entrée d'utilisateur : Scanner 
+    1. https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/20615-lire-les-entrees-clavier
+    2. https://codes-sources.commentcamarche.net/faq/514-la-classe-scanner
     
