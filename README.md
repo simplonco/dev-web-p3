@@ -1,6 +1,6 @@
 # Développeur.se Java & web - Promo 3
 
-trombinoscope : https://github.com/orgs/simplonco/teams/promo-3-p20-java/projects
+trombinoscope : https://github.com/orgs/simplonco/teams/promo-3-p20-java/projects/1
 
 ## Organisation de la journée
 
