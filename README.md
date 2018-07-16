@@ -158,3 +158,8 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     1. https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/20615-lire-les-entrees-clavier
     2. https://codes-sources.commentcamarche.net/faq/514-la-classe-scanner
     
+  # Week 7
+    * Tableaux : 
+    1. https://www.tutorialspoint.com/java/java_arrays.htm
+    2. http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/tableaux.html
+    
