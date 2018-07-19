@@ -159,7 +159,10 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     2. https://codes-sources.commentcamarche.net/faq/514-la-classe-scanner
     
   # Week 7
-    * Tableaux : 
+    * Tableaux : https://drive.google.com/open?id=1byW_THbgiMfBTkbuZ85QrZFv_g6Cvfgk
+    Exos : 
+    - https://drive.google.com/open?id=12REAWOkVEpFpEMY5qGwxj8WEYJRniog7
+    - https://drive.google.com/open?id=1ReMKUfRv-3kJWGgLh-9j4nXdj3pUlfNV
     1. https://www.tutorialspoint.com/java/java_arrays.htm
     2. http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/tableaux.html
     
