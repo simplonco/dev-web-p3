@@ -167,4 +167,16 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     <br/>Tutos en ligne: 
     1. https://www.tutorialspoint.com/java/java_arrays.htm
     2. http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/tableaux.html
+    
+  # Week 8
+    * Instance de classe en Java : https://drive.google.com/open?id=1WjaYE1H60OWJnhO36Z_Y0zRNIDFsHxDM
+    * <b> Definition :</b> Une <b>instance</b> représente un objet en mémoire, mais ce n'est pas forcément 
+    concrètement visible dans le code. A chaque fois que tu fais un <b> new </b> , tu crées une nouvelle 
+    instance d'un objet. Ainsidans la ligne suivante :
+                              Cuisine objCuisine = new Cuisine();
+    <br/> Exos :                  
+    1. https://drive.google.com/open?id=1jVER8SHjGtlbs7f3-4Pal6l2a26Pu0mf
+    <br/> Tutos en ligne :
+    1. http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/4.14.20.html
+    2. https://www.zdnet.fr/actualites/java-ma-triser-l-instanciation-des-classes-39125087.htm
    
