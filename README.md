@@ -182,10 +182,9 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     * <b> Definition :</b> Une <b>instance</b> représente un objet en mémoire, mais ce n'est pas forcément 
     concrètement visible dans le code. A chaque fois que tu fais un <b> new </b> , tu crées une nouvelle 
     instance d'un objet. Ainsidans la ligne suivante :
-                              Cuisine objCuisine = new Cuisine();
-    * En programmation orientée objet, on appelle instance d'une classe, un objet avec un comportement et un état, tous deux définis par  la classe. Il s'agit donc d'un objet constituant un exemplaire de la classe. Dans ce contexte, instance est un anglicisme, qui signifie « cas », « exemple ».
-
-L'instanciation est l'action d'instancier, de créer un objet à partir d'un modèle. Elle est réalisée par la composition de deux opérations : l'allocation et l'initialisation. L'allocation consiste à réserver un espace mémoire au nouvel objet. L'initialisation consiste à fixer l'état du nouvel objet. Cette opération fait par exemple appel à l'un des constructeurs de la classe de l'objet à créer. La modification de ces opérations permet de réaliser la réflexion structurelle.
+                              Cuisine objCuisine = new Cuisine(); <br/>
+                              
+    * En programmation orientée objet, on appelle instance d'une classe, un objet avec un comportement et un état, tous deux définis par  la classe. Il s'agit donc d'un objet constituant un exemplaire de la classe. Dans ce contexte, instance est un anglicisme, qui signifie « cas », « exemple ».  L'instanciation est l'action d'instancier, de créer un objet à partir d'un modèle. Elle est réalisée par la composition de deux opérations : l'allocation et l'initialisation. L'allocation consiste à réserver un espace mémoire au nouvel objet. L'initialisation consiste à fixer l'état du nouvel objet. Cette opération fait par exemple appel à l'un des constructeurs de la classe de l'objet à créer. La modification de ces opérations permet de réaliser la réflexion structurelle.
     <br/> Exos :                  
     1. https://drive.google.com/open?id=1jVER8SHjGtlbs7f3-4Pal6l2a26Pu0mf
     <br/> Tutos en ligne :
