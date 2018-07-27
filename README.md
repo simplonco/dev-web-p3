@@ -88,6 +88,9 @@ Week 1 - 2 : La priaire
 * 1-Responsive web design (RWD) + viewport + media queries<br/>
   * comprendre RWD (responsive web design) avec les Media queries et le viewport par google :<br/>  
   - https://developers.google.com/web/fundamentals/design-and-ux/responsive/?hl=fr<br/>
+  * Responsive avec Bootstrap <br/>
+  - https://openclassrooms.com/fr/courses/2847691-maquettez-votre-site-responsive-avec-photoshop/2856626-introduction-a-bootstrap</br>
+  - http://www.washaweb.com/tutoriaux/responsive-bootstrap/</br>
   * une explication avancée avec des exemples simples (à refaire à partir d’une feuille blanche) :<br/>
   - https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/<br/>
   * Des exemples simples pour tester des media queries :<br/>
