@@ -37,6 +37,12 @@ Week 1 - 2 : La priaire
 * Presenter votre voisin en 5' + Dessin
 - https://www.agiliste.fr/2-minutes-pour-presenter-l-approche-agile/
 - https://www.autodesk.fr/redshift/production-agile/
+* UX/UI : 
+1. https://www.iesamultimedia.fr/definition-ux-ui-design
+2. http://6.148.scripts.mit.edu/2017/pages/lectures/WEBday1_uiux.pdf
+3. https://pdfs.semanticscholar.org/presentation/9c9f/bea2bde929c88003e2def6602cb068b6a3d4.pdf
+4. http://www.comandtrip.fr/UX-Design-Comandtrip-24mars2016.pdf
+5. https://www.theseus.fi/bitstream/handle/10024/120948/Thesis_UXdesign_OrlovaMariia.pdf?sequence=1
 * trello : https://trello.com/b/kcVXlg2I/plan-de-formation
 * LinkedIn :
  - https://www.linkedin.com
