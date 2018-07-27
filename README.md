@@ -85,7 +85,7 @@ Week 1 - 2 : La priaire
   
 # Week 3: 
 * 4L : http://www.funretrospectives.com/the-4-ls-liked-learned-lacked-longed-for/
-* 1-Responsive web design (RWD) + viewport + media queries<br/>
+* 1-Responsive web design (RWD) + viewport + media queries
   a. comprendre RWD (responsive web design) avec les Media queries et le viewport par google :<br/>  
   - https://developers.google.com/web/fundamentals/design-and-ux/responsive/?hl=fr<br/>
   b. une explication avancée avec des exemples simples (à refaire à partir d’une feuille blanche) :<br/>
