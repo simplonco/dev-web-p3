@@ -149,40 +149,40 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     Grids : https://css-tricks.com/snippets/css/complete-guide-grid/
     
  # Week 5
-    * Diagramme de classe  : https://drive.google.com/open?id=1Q2CVlI25Di6p71oMrANT5kkjXuxM1Kkh <br/>
-    * Notions : Objet , Classe, Encapsulation : https://drive.google.com/open?id=1ytAqoCEfgl-by1n4gqh9SHI97F8tZHfleC5hyOv0z8A
+ * Diagramme de classe  : https://drive.google.com/open?id=1Q2CVlI25Di6p71oMrANT5kkjXuxM1Kkh <br/>
+ * Notions : Objet , Classe, Encapsulation : https://drive.google.com/open?id=1ytAqoCEfgl-by1n4gqh9SHI97F8tZHfleC5hyOv0z8A
     
     
  # Week 6
-    * Structure de Programme Java : https://drive.google.com/open?id=1avDPi4F3YqbW67Dsfup1HgqnZytYNS-o
-    * Installation d'eclipse : https://drive.google.com/open?id=1XJMgoWeaSQ4-lNNrxajJpU3TRLjYpcjtdd2xx1X815Y
-    * Tutos Eclipse : https://drive.google.com/open?id=1Ka5UzyYkt8f6r4YB4SZDkedDnqGsPIK9OSQbmLv3Ft8
-    * Exos Initiation Java : 
-    1. https://drive.google.com/open?id=1aGsm4YlVOEORJ2x2LoiIdfax8N996QDYVMMAi1cVb9o
-    2. https://drive.google.com/open?id=1IynSmpAlBUhQSbDfMmiPapDQXmXKUtswaRY5uUMNO_U
-    * Methodes : https://docs.google.com/presentation/d/1mcF__kGysY6EZ7ZeUOLgxAEyTpavpWKfQs6JSYGdW9E/edit?usp=sharing
-    * L'entrée d'utilisateur : Scanner 
-    1. https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/20615-lire-les-entrees-clavier
-    2. https://codes-sources.commentcamarche.net/faq/514-la-classe-scanner
+ * Structure de Programme Java : https://drive.google.com/open?id=1avDPi4F3YqbW67Dsfup1HgqnZytYNS-o <br/>
+ * Installation d'eclipse : https://drive.google.com/open?id=1XJMgoWeaSQ4-lNNrxajJpU3TRLjYpcjtdd2xx1X815Y<br/>
+ * Tutos Eclipse : https://drive.google.com/open?id=1Ka5UzyYkt8f6r4YB4SZDkedDnqGsPIK9OSQbmLv3Ft8<br/>
+ * Exos Initiation Java : <br/>
+    1. https://drive.google.com/open?id=1aGsm4YlVOEORJ2x2LoiIdfax8N996QDYVMMAi1cVb9o<br/>
+    2. https://drive.google.com/open?id=1IynSmpAlBUhQSbDfMmiPapDQXmXKUtswaRY5uUMNO_U<br/>
+ * Methodes : https://docs.google.com/presentation/d/1mcF__kGysY6EZ7ZeUOLgxAEyTpavpWKfQs6JSYGdW9E/edit?usp=sharing<br/>
+ * L'entrée d'utilisateur : Scanner <br/>
+    1. https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/20615-lire-les-entrees-clavier<br/>
+    2. https://codes-sources.commentcamarche.net/faq/514-la-classe-scanner<br/>
     
 # Week 7
-    * Tableaux : https://drive.google.com/open?id=1byW_THbgiMfBTkbuZ85QrZFv_g6Cvfgk
+* Tableaux : https://drive.google.com/open?id=1byW_THbgiMfBTkbuZ85QrZFv_g6Cvfgk
     <br/> Exos : 
-    - https://drive.google.com/open?id=12REAWOkVEpFpEMY5qGwxj8WEYJRniog7
-    - https://drive.google.com/open?id=1ReMKUfRv-3kJWGgLh-9j4nXdj3pUlfNV
-    - https://drive.google.com/open?id=1haD1OA4npFQMmSbovHKiIiD7n9M-L-d5
+    - https://drive.google.com/open?id=12REAWOkVEpFpEMY5qGwxj8WEYJRniog7<br/>
+    - https://drive.google.com/open?id=1ReMKUfRv-3kJWGgLh-9j4nXdj3pUlfNV<br/>
+    - https://drive.google.com/open?id=1haD1OA4npFQMmSbovHKiIiD7n9M-L-d5<br/>
     <br/>Tutos en ligne: 
     1. https://www.tutorialspoint.com/java/java_arrays.htm
     2. http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/tableaux.html
     
 # Week 8
-    * Instance de classe en Java : https://drive.google.com/open?id=1WjaYE1H60OWJnhO36Z_Y0zRNIDFsHxDM
-    * <b> Definition :</b> Une <b>instance</b> représente un objet en mémoire, mais ce n'est pas forcément 
-    concrètement visible dans le code. A chaque fois que tu fais un <b> new </b> , tu crées une nouvelle 
-    instance d'un objet. Ainsidans la ligne suivante :
+* Instance de classe en Java : https://drive.google.com/open?id=1WjaYE1H60OWJnhO36Z_Y0zRNIDFsHxDM
+* <b> Definition :</b> Une <b>instance</b> représente un objet en mémoire, mais ce n'est pas forcément 
+  concrètement visible dans le code. A chaque fois que tu fais un <b> new </b> , tu crées une nouvelle 
+  instance d'un objet. Ainsidans la ligne suivante :
                               Cuisine objCuisine = new Cuisine(); <br/>
                               
-    * En programmation orientée objet, on appelle instance d'une classe, un objet avec un comportement et un état, tous deux définis par  la classe. Il s'agit donc d'un objet constituant un exemplaire de la classe. Dans ce contexte, instance est un anglicisme, qui signifie « cas », « exemple ».  L'instanciation est l'action d'instancier, de créer un objet à partir d'un modèle. Elle est réalisée par la composition de deux opérations : l'allocation et l'initialisation. L'allocation consiste à réserver un espace mémoire au nouvel objet. L'initialisation consiste à fixer l'état du nouvel objet. Cette opération fait par exemple appel à l'un des constructeurs de la classe de l'objet à créer. La modification de ces opérations permet de réaliser la réflexion structurelle.
+ * En programmation orientée objet, on appelle instance d'une classe, un objet avec un comportement et un état, tous deux définis par  la classe. Il s'agit donc d'un objet constituant un exemplaire de la classe. Dans ce contexte, instance est un anglicisme, qui signifie « cas », « exemple ».  L'instanciation est l'action d'instancier, de créer un objet à partir d'un modèle. Elle est réalisée par la composition de deux opérations : l'allocation et l'initialisation. L'allocation consiste à réserver un espace mémoire au nouvel objet. L'initialisation consiste à fixer l'état du nouvel objet. Cette opération fait par exemple appel à l'un des constructeurs de la classe de l'objet à créer. La modification de ces opérations permet de réaliser la réflexion structurelle.
     <br/> Exos :                  
     1. https://drive.google.com/open?id=1jVER8SHjGtlbs7f3-4Pal6l2a26Pu0mf
     <br/> Tutos en ligne :
