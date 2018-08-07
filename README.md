@@ -149,13 +149,11 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     Grids : https://css-tricks.com/snippets/css/complete-guide-grid/
     
  # Week 5
-    
-    * Diagramme de classe  : https://drive.google.com/open?id=1Q2CVlI25Di6p71oMrANT5kkjXuxM1Kkh
+    * Diagramme de classe  : https://drive.google.com/open?id=1Q2CVlI25Di6p71oMrANT5kkjXuxM1Kkh <br/>
     * Notions : Objet , Classe, Encapsulation : https://drive.google.com/open?id=1ytAqoCEfgl-by1n4gqh9SHI97F8tZHfleC5hyOv0z8A
     
     
  # Week 6
-    
     * Structure de Programme Java : https://drive.google.com/open?id=1avDPi4F3YqbW67Dsfup1HgqnZytYNS-o
     * Installation d'eclipse : https://drive.google.com/open?id=1XJMgoWeaSQ4-lNNrxajJpU3TRLjYpcjtdd2xx1X815Y
     * Tutos Eclipse : https://drive.google.com/open?id=1Ka5UzyYkt8f6r4YB4SZDkedDnqGsPIK9OSQbmLv3Ft8
