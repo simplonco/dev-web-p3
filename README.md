@@ -125,7 +125,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 
   - https://www.w3schools.com/css/css3_flexbox.asp
   
-  # Week 4 
+# Week 4 
   * fashion week : La semaine du style. 
      5 groupes pour 5 outils de "dessin" et 4 frameworks css sur 5 jours : chaque jour chaque groupe reproduit la page d'accueil de   
      airbnb, d'abord sous forme "dessinée", puis à l'aide d'un framework css, et produit de la    
@@ -148,13 +148,13 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     
     Grids : https://css-tricks.com/snippets/css/complete-guide-grid/
     
-   # Week 5
+ # Week 5
     
     * Diagramme de classe  : https://drive.google.com/open?id=1Q2CVlI25Di6p71oMrANT5kkjXuxM1Kkh
     * Notions : Objet , Classe, Encapsulation : https://drive.google.com/open?id=1ytAqoCEfgl-by1n4gqh9SHI97F8tZHfleC5hyOv0z8A
     
     
-   # Week 6
+ # Week 6
     
     * Structure de Programme Java : https://drive.google.com/open?id=1avDPi4F3YqbW67Dsfup1HgqnZytYNS-o
     * Installation d'eclipse : https://drive.google.com/open?id=1XJMgoWeaSQ4-lNNrxajJpU3TRLjYpcjtdd2xx1X815Y
@@ -167,7 +167,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     1. https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/20615-lire-les-entrees-clavier
     2. https://codes-sources.commentcamarche.net/faq/514-la-classe-scanner
     
-  # Week 7
+# Week 7
     * Tableaux : https://drive.google.com/open?id=1byW_THbgiMfBTkbuZ85QrZFv_g6Cvfgk
     <br/> Exos : 
     - https://drive.google.com/open?id=12REAWOkVEpFpEMY5qGwxj8WEYJRniog7
@@ -177,7 +177,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     1. https://www.tutorialspoint.com/java/java_arrays.htm
     2. http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/tableaux.html
     
-  # Week 8
+# Week 8
     * Instance de classe en Java : https://drive.google.com/open?id=1WjaYE1H60OWJnhO36Z_Y0zRNIDFsHxDM
     * <b> Definition :</b> Une <b>instance</b> représente un objet en mémoire, mais ce n'est pas forcément 
     concrètement visible dans le code. A chaque fois que tu fais un <b> new </b> , tu crées une nouvelle 
@@ -191,7 +191,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     1. http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/4.14.20.html
     2. https://www.zdnet.fr/actualites/java-ma-triser-l-instanciation-des-classes-39125087.htm
     
- # Week 9
+# Week 9
  * Heritage : L'héritage est la définition d'une classe par extension des caractéristiques d'une autre classe : https://drive.google.com/open?id=1oP7H6xp4D0vrs5pJAlsGwtHrvH36yYx3z1-EddjILkU <br/>
 1. https://fr.wikibooks.org/wiki/Programmation_Java/H%C3%A9ritage <br/>
 2. http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/classes2.html <br/>
@@ -202,7 +202,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 2. https://fr.wikibooks.org/wiki/Programmation_Java/Interfaces <br/>
 3. http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/5.26.41.html <br/>
   
- # Week 10
+# Week 10
  * Conception BDD <br/>
  * Workbench <br/>
  * Mes premières requêtes SQL <br/>
