@@ -190,4 +190,16 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
     <br/> Tutos en ligne :
     1. http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/4.14.20.html
     2. https://www.zdnet.fr/actualites/java-ma-triser-l-instanciation-des-classes-39125087.htm
+    
+ # Week 9
+ * Heritage : https://drive.google.com/open?id=1oP7H6xp4D0vrs5pJAlsGwtHrvH36yYx3z1-EddjILkU <br/>
+ - https://fr.wikibooks.org/wiki/Programmation_Java/H%C3%A9ritage <br/>
+ - http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/classes2.html <br/>
+ - http://imss-www.upmf-grenoble.fr/prevert/Prog/Java/CoursJava/classes2.html <br/>
+ <br/>
+ * <b> Interface <b/> : Une interface est déclarée avec le mot réservé interface. Une interface peut hériter (extends) de plusieurs interfaces. Une classe peut implémenter (implements) une ou plusieurs interfaces : https://drive.google.com/file/d/1xVhTC5xJjWrgh4I663pZmRfXcyd4PBrO/view?usp=sharing <br/>
+  - http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/5.26.41.html <br/>
+  - https://fr.wikibooks.org/wiki/Programmation_Java/Interfaces <br/>
+  - http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/5.26.41.html <br/>
+  
    
