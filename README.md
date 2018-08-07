@@ -206,4 +206,10 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
  * Conception BDD <br/>
  * Workbench <br/>
  * Mes premières requêtes SQL <br/>
+ * Cours avance SQL : <br/>
+   1. http://sql.sh/
+   2. https://fr.wikibooks.org/wiki/MySQL/Requ%C3%AAtes
+   3. https://downloads.mysql.com/docs/refman-5.0-fr.a4.pdf
+   4. http://www.prosygma.com/telechargement/mysql_tutorial.pdf
+   
 
