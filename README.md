@@ -202,4 +202,8 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 2. https://fr.wikibooks.org/wiki/Programmation_Java/Interfaces <br/>
 3. http://www-inf.it-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursJAVA/5.26.41.html <br/>
   
-   
+ # Week 10
+ * Conception BDD <br/>
+ * Workbench <br/>
+ * Mes premières requêtes SQL <br/>
+
