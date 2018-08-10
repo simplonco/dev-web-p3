@@ -217,9 +217,9 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 # Week 11   - Vacances 
 * Sujets en Java a voir : 
 1. ArrayLists : 
-   a. https://www.journaldunet.fr/web-tech/developpement/1202963-comment-initialiser-un-arraylist-en-java/
-   b. https://www.geeksforgeeks.org/arraylist-in-java/
-   c. https://www.callicoder.com/java-arraylist/
+   a. https://www.journaldunet.fr/web-tech/developpement/1202963-comment-initialiser-un-arraylist-en-java/<br/>
+   b. https://www.geeksforgeeks.org/arraylist-in-java/<br/>
+   c. https://www.callicoder.com/java-arraylist/<br/>
 2. HashTables : 
    a. https://www.tutorialspoint.com/java/java_hashtable_class.htm
 
