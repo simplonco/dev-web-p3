@@ -214,4 +214,14 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
    
  * Exercices : https://drive.google.com/open?id=1t7TXMndKefhMvenfpiA3I70H53xtCC5B7LGpdZ1ogdI
    
+# Week 11   - Vacances 
+* Sujets en Java a voir : 
+1. ArrayLists : 
+   a. https://www.journaldunet.fr/web-tech/developpement/1202963-comment-initialiser-un-arraylist-en-java/
+   b. https://www.geeksforgeeks.org/arraylist-in-java/
+   c. https://www.callicoder.com/java-arraylist/
+2. HashTables : 
+   a. https://www.tutorialspoint.com/java/java_hashtable_class.htm
 
+* Sujets SQL avancés : 
+1. Jointures : https://drive.google.com/open?id=1z2_2cG-Lejmahdl_fqwA0O_HalVEZgqw
