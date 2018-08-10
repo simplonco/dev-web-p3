@@ -216,7 +216,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
    
 # Week 11   - Vacances 
 * Sujets en Java a voir : 
-1. ArrayLists : 
+1. ArrayLists : <br/>
    a. https://www.journaldunet.fr/web-tech/developpement/1202963-comment-initialiser-un-arraylist-en-java/<br/>
    b. https://www.geeksforgeeks.org/arraylist-in-java/<br/>
    c. https://www.callicoder.com/java-arraylist/<br/>
