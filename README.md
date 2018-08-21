@@ -225,3 +225,14 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 
 * Sujets SQL avancés : 
 1. Jointures : https://drive.google.com/open?id=1z2_2cG-Lejmahdl_fqwA0O_HalVEZgqw
+
+# Week 12   
+* <b> JDBC </b> :<b> <i>Java Database Connectivity </i> </b> est une interface de programmation créée par Sun Microsystems — depuis racheté par Oracle Corporation — pour les programmes utilisant la plateforme Java. <br>
+* Notes et Atelier No1 - JDBC : https://drive.google.com/open?id=1Mvst2hn3pNWtmghkUzL-DedyrbbEt8fd <br>
+* Atelier No2 - JDBC (Petit Projet) : https://drive.google.com/open?id=1h8bNVSyy8k0Vaj1EVtg4YX1YRhyu_nS6 <br> 
+* Liens : <br> 
+  a. https://www.jmdoudoux.fr/java/dej/chap-jdbc.htm
+  b. https://fr.wikipedia.org/wiki/Java_Database_Connectivity
+  c. https://www.commentcamarche.com/contents/594-introduction-a-jdbc
+
+
