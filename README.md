@@ -231,8 +231,8 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 * Notes et Atelier No1 - JDBC : https://drive.google.com/open?id=1Mvst2hn3pNWtmghkUzL-DedyrbbEt8fd <br>
 * Atelier No2 - JDBC (Petit Projet) : https://drive.google.com/open?id=1h8bNVSyy8k0Vaj1EVtg4YX1YRhyu_nS6 <br> 
 * Liens : <br> 
-  a. https://www.jmdoudoux.fr/java/dej/chap-jdbc.htm
-  b. https://fr.wikipedia.org/wiki/Java_Database_Connectivity
-  c. https://www.commentcamarche.com/contents/594-introduction-a-jdbc
+  a. https://www.jmdoudoux.fr/java/dej/chap-jdbc.htm <br>
+  b. https://fr.wikipedia.org/wiki/Java_Database_Connectivity <br>
+  c. https://www.commentcamarche.com/contents/594-introduction-a-jdbc <br>
 
 
