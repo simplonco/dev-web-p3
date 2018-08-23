@@ -230,9 +230,17 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 * <b> JDBC </b> :<b> <i>Java Database Connectivity </i> </b> est une interface de programmation créée par Sun Microsystems — depuis racheté par Oracle Corporation — pour les programmes utilisant la plateforme Java. <br>
 * Notes et Atelier No1 - JDBC : https://drive.google.com/open?id=1Mvst2hn3pNWtmghkUzL-DedyrbbEt8fd <br>
 * Atelier No2 - JDBC (Petit Projet) : https://drive.google.com/open?id=1h8bNVSyy8k0Vaj1EVtg4YX1YRhyu_nS6 <br> 
+* Etape par etape JDBC : https://drive.google.com/open?id=1HWbr9snFtXMXi_rhW2U7jRrCwTmpXVKZ <br>
+* Exceptions : https://drive.google.com/open?id=1duJF1goU4ZGoz6IB7F6q7lxG9XE3WUzO-ZS6r7K_I6c <br>
 * Liens : <br> 
   a. https://www.jmdoudoux.fr/java/dej/chap-jdbc.htm <br>
   b. https://fr.wikipedia.org/wiki/Java_Database_Connectivity <br>
   c. https://www.commentcamarche.com/contents/594-introduction-a-jdbc <br>
+* Pour le Hackathon le 24.08.2018 : <br>
+  a. https://marvelapp.com/ <br>
+  b. http://romy.tetue.net/zoning-mockup-maquette-web?lang=fr<br>
+  c. https://www.invisionapp.com/lp/signup-1?utm_source=google&utm_medium=paid_search&utm_campaign=DG_SS_G_EMEA_Search_Brand_EM&utm_content=InVision_App_EM&utm_term=invision%20app_e&_bk=invision%20app&_bt=253209933011&_bm=e&_bn=g&gclid=EAIaIQobChMI9umvk-CC3QIVVed3Ch3yPwVGEAAYASAAEgJx7_D_BwE <br>
+  d. https://www.wax-interactive.com/fr/service/wireframes-maquettes-fonctionnelles <br>
+  
 
 
