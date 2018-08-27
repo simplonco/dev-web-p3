@@ -242,5 +242,9 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
   c. https://www.invisionapp.com/lp/signup-1?utm_source=google&utm_medium=paid_search&utm_campaign=DG_SS_G_EMEA_Search_Brand_EM&utm_content=InVision_App_EM&utm_term=invision%20app_e&_bk=invision%20app&_bt=253209933011&_bm=e&_bn=g&gclid=EAIaIQobChMI9umvk-CC3QIVVed3Ch3yPwVGEAAYASAAEgJx7_D_BwE <br>
   d. https://www.wax-interactive.com/fr/service/wireframes-maquettes-fonctionnelles <br>
   
+# Week 13
+* Atelier JDBC : https://drive.google.com/open?id=1iUd5EY1NSBBXH2Zr_rYp9KIoPL5tjgm- <br>
+* <b> JSP </b>: Le JavaServer Pages ou JSP est une technique basée sur Java qui permet aux développeurs de créer dynamiquement du code HTML, XML ou tout autre type de page web. Cette technique permet au code Java et à certaines actions prédéfinies d'être ajoutés dans un contenu statique. <br>
+* Atelier JSP :
 
 
