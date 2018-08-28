@@ -245,6 +245,7 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 # Week 13
 * Atelier JDBC : https://drive.google.com/open?id=1iUd5EY1NSBBXH2Zr_rYp9KIoPL5tjgm- <br>
 * <b> JSP </b>: Le JavaServer Pages ou JSP est une technique basée sur Java qui permet aux développeurs de créer dynamiquement du code HTML, XML ou tout autre type de page web. Cette technique permet au code Java et à certaines actions prédéfinies d'être ajoutés dans un contenu statique. <br>
-* Atelier JSP :
-
+* Atelier JSP / Config Tomcat Apache sur Eclipse :  https://drive.google.com/open?id=1T3TNxA8OHTifdhrTaeYZKI4U0wnfeD4C <br> 
+* Liens: 
+1. http://www.info.univ-angers.fr/~richer/j2ee_cm3.php
 
