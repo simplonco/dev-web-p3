@@ -252,6 +252,4 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 2. https://stackoverflow.com/questions/19133189/how-to-print-arraylist-in-jsp-using-java-method
 3. https://coderanch.com/t/622978/java/print-ArrayList-JSP
 4. https://stackoverflow.com/questions/13573614/import-and-print-arraylist-to-jsp?lq=1
-
-
-
+5. https://chortle.ccsu.edu/java5/Notes/chap54/ch54_11.html
