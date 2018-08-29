@@ -246,10 +246,12 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 * Atelier JDBC : https://drive.google.com/open?id=1iUd5EY1NSBBXH2Zr_rYp9KIoPL5tjgm- <br>
 * <b> JSP </b>: Le JavaServer Pages ou JSP est une technique basée sur Java qui permet aux développeurs de créer dynamiquement du code HTML, XML ou tout autre type de page web. Cette technique permet au code Java et à certaines actions prédéfinies d'être ajoutés dans un contenu statique. <br>
 * Atelier JSP / Config Tomcat Apache sur Eclipse :  https://drive.google.com/open?id=1T3TNxA8OHTifdhrTaeYZKI4U0wnfeD4C <br> 
+* BDD to ArrayList : https://drive.google.com/open?id=12G0aeEEaQiyDeNiRS4npJNyOKIYKMALQ
 * Liens: 
 1. http://www.info.univ-angers.fr/~richer/j2ee_cm3.php
 2. https://stackoverflow.com/questions/19133189/how-to-print-arraylist-in-jsp-using-java-method
 3. https://coderanch.com/t/622978/java/print-ArrayList-JSP
 4. https://stackoverflow.com/questions/13573614/import-and-print-arraylist-to-jsp?lq=1
+
 
 
