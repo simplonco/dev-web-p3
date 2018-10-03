@@ -266,7 +266,7 @@ https://drive.google.com/open?id=1e6NwdadTF2drd8s1vMwEIErv9fZ2YaUY
 * Projet "Eviter la prison" - Maquettes, UML, JSP + Hibernate - <br>
 https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
 <br>
-* Liens: 
+* Liens: <br>
   - https://www.javatpoint.com/steps-to-create-first-hibernate-application
   - https://howtodoinjava.com/hibernate/hibernate-3-introduction-and-writing-hello-world-application/
   - https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-example-code-using-annotations/
