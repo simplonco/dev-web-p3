@@ -267,10 +267,10 @@ https://drive.google.com/open?id=1e6NwdadTF2drd8s1vMwEIErv9fZ2YaUY
 https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
 <br>
 * Liens: <br>
-  - https://www.javatpoint.com/steps-to-create-first-hibernate-application
-  - https://howtodoinjava.com/hibernate/hibernate-3-introduction-and-writing-hello-world-application/
-  - https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-example-code-using-annotations/
-  - https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-tutorial-beginners-examples/
+  - https://www.javatpoint.com/steps-to-create-first-hibernate-application <br>
+  - https://howtodoinjava.com/hibernate/hibernate-3-introduction-and-writing-hello-world-application/ <br>
+  - https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-example-code-using-annotations/ <br>
+  - https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-tutorial-beginners-examples/ <br>
 
 # Week 19 
 * Atelier Wordpress <br>
