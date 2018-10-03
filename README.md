@@ -257,3 +257,11 @@ Testez les shorcuts de emmet (un petit plugin qui peut faire gagner pas mal de t
 5. https://chortle.ccsu.edu/java5/Notes/chap54/ch54_11.html
 
 # Week 14 - Week 17 : Stages ( Projets ) 
+
+# Week 18 
+* Atelier 1  - Simple CRUD - Hibernate , Java , MySQL - <br>
+https://drive.google.com/open?id=1JSti2gFguKwnJ6HtPlyh4LpbyEUUNgDr
+* Atelier 2 : Projet Universite + Analyse de code  - Hibernate - <br>
+https://drive.google.com/open?id=1e6NwdadTF2drd8s1vMwEIErv9fZ2YaUY
+* Projet "Eviter la prison" - Maquettes, UML, JSP + Hibernate - <br>
+https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
