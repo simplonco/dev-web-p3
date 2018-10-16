@@ -275,5 +275,7 @@ https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
 # Week 19 
 * Atelier Wordpress <br>
   - Installation / Configuration :
-  - Themes - Plugins : 
-  - Projet E-commerce/CMS : 
+    * Linux : https://drive.google.com/open?id=1v8gIcM85qYG5Fz08cHuoZ5V46EdfSZfZ57rA-Z7YQjU
+    * Windows : https://drive.google.com/open?id=1qZzF_f4RP11svp5ZRuYsiFO8Uws0waPW
+  - Themes - Plugins : https://drive.google.com/open?id=13rs3BSzJcCNYYpeKE08s9XAQw-XeC410
+  - Projet E-commerce/CMS : https://drive.google.com/open?id=1BOWUiwjeNXaXJcqIgkej9XSiqrCo7wBp
