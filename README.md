@@ -293,4 +293,5 @@ https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
 * Petit Projet Etudiant/Prof/Cours : https://drive.google.com/open?id=1-HzNvBpgQE2f-Cn8o1zJPAxQGcpxhuc0
 * Presentation a preparer sur les sujets differents : https://drive.google.com/open?id=1GQOyx9ZVZlI7QfHgTGhJBylp_fFXxsq1
 
-Liens : http://websystique.com/spring-boot/spring-boot-rest-api-example/
+Liens : http://websystique.com/spring-boot/spring-boot-rest-api-example/ <br> 
+https://www.javacodegeeks.com/2018/03/spring-boot-jsp.html
