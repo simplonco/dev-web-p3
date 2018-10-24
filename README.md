@@ -288,4 +288,9 @@ https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
 * Spring Decouverte + simplecrud : https://drive.google.com/open?id=1WFbl0DiIobeRTCLPLTwXaKaXjRZ4HOP2
 
 # Week 21
-* Petit Projet Spring Acteurs/Films : https://drive.google.com/open?id=1PDZ7jcRWROrVmMRsI4Dk4ye4GexXfdNY
+* Petit Projet Spring Acteurs/Films : https://drive.google.com/open?id=1CKwsYy738t2ghRPA5G2iHRwcDGHM-WKY <br/>
+* Atelier Spring + jsp : https://drive.google.com/open?id=1vzBJbV1boxncCMF40jg5LCOXUbmhz89g </br>
+* Petit Projet Etudiant/Prof/Cours : https://drive.google.com/open?id=1-HzNvBpgQE2f-Cn8o1zJPAxQGcpxhuc0
+* Presentation a preparer sur les sujets differents : https://drive.google.com/open?id=1GQOyx9ZVZlI7QfHgTGhJBylp_fFXxsq1
+
+Liens : http://websystique.com/spring-boot/spring-boot-rest-api-example/
