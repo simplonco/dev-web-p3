@@ -295,3 +295,21 @@ https://drive.google.com/open?id=1RG47x5IkxnT40MXRgHjimo2eOlrDbq4E
 
 Liens : http://websystique.com/spring-boot/spring-boot-rest-api-example/ <br> 
 https://www.javacodegeeks.com/2018/03/spring-boot-jsp.html
+
+# Week 22
+* ArrayList/LinkedList/HashSet/TreeSet : https://drive.google.com/open?id=18ykeZ21d4KoopUDdgk4F6ZcKL1gQ-ddv <br> 
+* Petit projet - Shopping Cart avec les Collections en Java  : https://drive.google.com/open?id=1LdzcqtkaH71Isfg6R_R71etUwHIlZGru <br> 
+
+Liens : <br> 
+* https://www.javatpoint.com/collections-in-java  <br> 
+* https://www.geeksforgeeks.org/collections-in-java-2/  <br> 
+* https://www.tutorialspoint.com/java/java_collections.htm  <br> 
+
+# Week 23
+* Atelier  Agile : https://www.cprime.com/resources/what-is-agile-what-is-scrum/
+* Atelier Spring  - etape par etape  
+* Atelier Angular 
+* Tuto Angular (google) : https://angular.io/tutorial
+* Tuto ToDo list Angular step by step : https://mdbootstrap.com/angular/todo-list-app-lesson-1-basic-setup/
+* SPRINT #0 
+
