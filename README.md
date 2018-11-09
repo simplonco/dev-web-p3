@@ -312,7 +312,7 @@ Liens : <br>
 * Tuto Angular (google) : https://angular.io/tutorial
 * Tuto ToDo list Angular step by step : https://mdbootstrap.com/angular/todo-list-app-lesson-1-basic-setup/
 * SPRINT #0 <br>
-  * objectif : slide (oneline)- sledes.com --  à envoyer par email : @ Pierre & Athanasia
+  * objectif : slide (oneline)- slides.com --  à envoyer par email : @ Pierre & Athanasia
   * Contexte (Projet JAVA EE & API)
   * Création du trello (Product Backlog (colonne) et Sprint Backlog (colonnes suivantes))
   * Liste des 4 premières features (4 user stories ou plus)
