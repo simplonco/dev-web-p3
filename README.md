@@ -307,8 +307,8 @@ Liens : <br>
 
 # Week 23
 * Atelier  Agile : https://www.cprime.com/resources/what-is-agile-what-is-scrum/
-* Atelier Spring  - etape par etape  
-* Atelier Angular 
+* Atelier Spring  - etape par etape : https://github.com/simplonco/java-workshop-api-rest/tree/master/avent
+* Atelier Angular : https://github.com/simplonco/java-workshop-api-rest/tree/master/avent-front
 * Tuto Angular (google) : https://angular.io/tutorial
 * Tuto ToDo list Angular step by step : https://mdbootstrap.com/angular/todo-list-app-lesson-1-basic-setup/
 * SPRINT #0 <br>
