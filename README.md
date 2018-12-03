@@ -325,3 +325,151 @@ Liens : <br>
 
 Liens: <br>
 Tuto Java & Angular : https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot
+
+# Week 23
+* Tuto Angular - Spring avec Jules 
+* Projets - Titre Pro
+
+# Week 24
+Sprint #0
+objectif : slide (oneline) à envoyer par email : @ Pierre & Athanasia
+Contexte (Projet JAVA EE & API)
+Création du trello (Product Backlog (colonne) et Sprint Backlog (colonnes suivantes))
+Liste des 4 premières features (4 user stories ou plus)
+UML (seulement la/les tables dont nous avons besoin)
+use case diagram (version 1.0)
+class diagram (version 1.0)
+Maquette (seulement les pages et/ou morceaux de page utile aux 4 features)
+sur marvelapp/ pencil / etc.
+lien vers github/gitlab vers votre début projet spring
+
+# Week 25
+Sprint #1 :  API REST sur nos premières entités
+objectif 1 : API REST sur nos premières entitées, début interface accueil si possible
+
+objectif 2 : Sprint
+Préparation Sprint planning :
+- Ajouter 2 nouvelles features à la liste des 4 features (slide+Product Backlog)
+- Modifier UML - si besoin (seulement la/les tables dont nous avons besoin)
+use case diagram (version 1.1)
+class diagram (version 1.1)
+- Modifier Maquette - si besoin / ajouter les nouvelles features (seulement les pages et/ou morceaux de page utile aux nouvelles features)
+sur marvelapp/ pencil / etc.
+Sprint Planning Sprint #1 : Écrire 4 nouvelles User Story et un Sprint Goal qui a du sens et qu’on affiche dans trello, enfin les faire relire par un voisin
+Remplir votre trello (découpage en tâches technique)
+Code (visible sur github) : API REST sur vos entités avec JPARepository
+(Au minimum un CRUD fonctionnel sur vos entitées)
+image de Tests postman : une requête GET, une requête POST  
+Review client
+		livraison Mercredi matin avant midi
+		Vous présenterez votre Sprint #1 à votre voisin ce même jour
+Rétrospective globale promo
+
+
+objectif 3 : MAJ slide (oneline) à envoyer par email le mercredi soir
+Résumé du Sprint #1 : les us écrites, le Sprint Goal, feedback du voisin pendant la review, action d’amélioration que vous appliquez au prochain Sprint
+Lien et image vers votre trello (Product Backlog (colonne) et Sprint Backlog (colonnes suivantes))
+lien vers github/gitlab vers votre projet spring
+
+
+Remarques : 
+-Si vous avez des difficultés avec votre PO, vous pouvez intégrer plusieurs PO
+-Normalement, dans la pratique on écrit et priorise les US avant le Sprint Planning avec le PO
+	-Il faut un Scrum Master de la semaine va animer des temps de daily scrum et vérifier que les Sprint planning du lundi se déroulent bien, que les review et retrospective en duo fonctionnent bien.
+
+# Week 26
+* Sprint #2 
+objectif 1 : Trouver/Travailler avec son Product Owner pour le Sprint Planning (lundi) une fois que vous l’avez bien préparé (UML, maquette)
+	Vous jouerez le rôle du client de vos projets (vous avez la vision projet)
+	Vous devez communiquer avec un collaborateur PO qui va écrire vos US
+	Vous pouvez faire une ou deux réunions avec lui pour retravailler ensemble vos US (seulement lui a le droit de les modifier)
+	Vous devez traduire les US en tâches techniques
+
+objectif 2 : Le déroulement du Sprint
+Préparation Sprint planning :
+- Ajouter 2 nouvelles features à la liste des 6 features (slide+Product Backlog)
+- Modifier UML - si besoin (seulement la/les tables dont nous avons besoin)
+use case diagram (version 1.2)
+class diagram (version 1.2)
+- Modifier Maquette - si besoin / ajouter les nouvelles features (seulement les pages et/ou morceaux de page utile aux nouvelles features)
+sur marvelapp/ pencil / etc.
+Sprint Planning Sprint #2 : A partir de votre préparation (feature, UML, maquettes), Discuter avec votre collaborateur PO pour qu’il rédige vos nouvelles user stories puis prioriser les avec lui (Buy a feature ou 20/20 vision). Les estimer (planning poker), les valoriser (apport client) avec lui, puis écrire des critères d’acceptances.
+Enfin Écrire un Sprint Goal qui a du sens et qu’on affiche dans trello
+Remplir votre trello (tâches techniques)
+Code sur github : petites Fonctionnalités testables par une interface (et par postman quand cela a du sens)
+image de Tests postman si changements, améliorations (services/DATA)
+Review client
+Livraison du code sur github Jeudi soir avant minuit
+			Vous présenterez votre projet à votre camarade PO le vendredi
+			Lui faire tester et noter ses retours
+Rétrospective avec PO
+			Animer un temps visant à 
+conscientiser vos succès
+trouver une action d’amélioration continue (mesurable)
+
+objectif 3 : MAJ slide (oneline) à envoyer par email le mercredi soir
+Sprint #2 : Résumé votre promesse client du Sprint #2 (Quelles US on se fixe comme objectif et quel est le total de point de difficulté visé) puis le Sprint Goal
+Lien et image vers votre trello (Product Backlog (colonne) et Sprint Backlog (colonnes suivantes)) au début de Sprint et à la fin de Sprint pour expliquer votre dérouler de Sprint
+image de votre retrospective (Star fish, 4L, Speed Boat ou autre :-) )
+lien vers github/gitlab vers votre projet spring
+Ajouter 1 Slide au début : Explication Mais Qui je suis ? Pk Formation JAVA/Simplon ?
+
+Remarques : 
+-Si vous avez des difficultés avec votre PO, vous pouvez intégrer plusieurs PO
+-Normalement, dans la pratique on écrit et priorise les US avant le Sprint Planning avec le PO
+	-Il faut un Scrum Master de la semaine va animer des temps de daily scrum et vérifier que les Sprint planning du lundi se déroulent bien, que les review et retrospective en duo fonctionnent bien.
+
+
+# Week 27
+* Hackathon 26-28/11 - HAckTonJob : https://drive.google.com/open?id=19QMMLr_YGlTn8Yo1G7Idd5hbHXys19Hu
+
+# Week 28
+* Oraux blanc 5-6/12 : https://docs.google.com/spreadsheets/d/1Ho-QWKz0cnUS2HC74DyO0x0WjuFqaTA4DxoKwRTldg0/edit#gid=0
+
+# Week 29 
+* Sprint #3 : 03/12 - 13/12
+   objectif 1 : Travailler avec son Product Owner pour le Sprint Planning (lundi) une fois que vous l’avez bien préparé (UML, maquette)
+    Vous jouerez le rôle du client de vos projets (vous avez la vision projet)
+    Vous devez communiquer avec un collaborateur PO qui va écrire vos US
+    Vous pouvez faire une ou deux réunions avec lui pour retravailler ensemble vos US (seulement lui a le droit de les modifier)
+    Vous devez traduire les US en tâches techniques
+
+objectif 2 : Le déroulement du Sprint
+Préparation Sprint planning :
+- Modifier UML - si besoin (seulement la/les tables dont nous avons besoin)
+use case diagram (version 1.3)
+class diagram (version 1.3)
+- Modifier Maquette - si besoin
+sur marvelapp/ pencil / etc.
+Sprint Planning Sprint #3 : A partir de votre préparation (feature, UML, maquettes), Discuter avec votre collaborateur PO pour qu’il rédige vos nouvelles user stories puis prioriser les avec lui (Buy a feature ou 20/20 vision). Les estimer (planning poker), les valoriser (apport client) avec lui, puis écrire des critères d’acceptances.
+Enfin Écrire un Sprint Goal qui a du sens et qu’on affiche dans trello
+Remplir votre trello (tâches technique)
+Code sur github : petites Fonctionnalités testables par une interface (et par postman quand cela a du sens)
+image de Tests postman si changements, améliorations (services/DATA)
+Review client
+            Livraison du code sur github Jeudi 13.12 soir avant minuit
+            Vous présenterez votre projet à votre camarade PO le vendredi
+            Lui faire tester et noter ses retours
+Rétrospective avec PO
+            Animer un temps visant à
+conscientiser vos succès
+trouver une action d’amélioration continue (mesurable)
+
+objectif 3 : MAJ slide (oneline) à envoyer par email le Jeudi soir
+Sprint #3 : Résumé votre promesse client du Sprint #3 (Quelles US on se fixe comme objectif et quel est le total de point de difficulté visé) puis le Sprint Goal
+Lien et image vers votre trello (Product Backlog (colonne) et Sprint Backlog (colonnes suivantes)) au début de Sprint et à la fin de Sprint pour expliquer votre dérouler de Sprint
+image de votre retrospective (Star fish, 4L, Speed Boat ou autre :slightly_smiling_face: )
+lien vers github/gitlab vers votre projet spring
+Ajouter Slide :
+Explication des Technologies utilisées : Spring, JPA, MySQL,etc.
+Explication configuration et maven pom.xml et application.properties
+Explication organisation du Front
+Explication du REST
+Présenter une image du FRONT(button) - et le lien avec le code du BACK   ex. Qu'est ce que se passe si j’appuie sur ce bouton?
+
+
+Remarques :
+-Si vous avez des difficultés avec votre PO, vous pouvez intégrer plusieurs PO
+-Normalement, dans la pratique on écrit et priorise les US avant le Sprint Planning avec le PO
+    -Il faut un Scrum Master de la semaine va animer des temps de daily scrum et vérifier que les Sprint planning du lundi se déroulent bien, que les review et retrospective en duo fonctionnent bien.
+
