@@ -326,10 +326,6 @@ Liens : <br>
 Liens: <br>
 Tuto Java & Angular : https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot
 
-# Week 23
-* Tuto Angular - Spring avec Jules 
-* Projets - Titre Pro
-
 # Week 24
 Sprint #0
 objectif : slide (oneline) à envoyer par email : @ Pierre & Athanasia
